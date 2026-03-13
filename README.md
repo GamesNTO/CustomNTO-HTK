@@ -1,4 +1,5 @@
 🛡️ CustomNTO-HTK | Advanced Gaming Framework
+
 CustomNTO-HTK é uma estrutura de automação e scripts de alto desempenho desenvolvida especificamente para jogos baseados em Naruto Tibia Online (NTO). Combinando uma engine de carregamento seguro (VFS) com ferramentas de combate e utilitários avançados, o HTK oferece uma vantagem competitiva definitiva.
 
 🚀 Funcionalidades Principais
