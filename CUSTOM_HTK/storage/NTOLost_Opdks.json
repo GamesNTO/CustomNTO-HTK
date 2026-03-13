@@ -1,0 +1,66 @@
+{
+  "keySpells": [
+
+  ],
+  "fugaSpells": [
+    {
+      "selfHealth": 45,
+      "enableTimeSpell": true,
+      "orangeSpell": "kawarimi no jutsu",
+      "cooldownTotal": 45,
+      "spellCast": "kawarimi no jutsu",
+      "widgetPos": {
+        "y": 512,
+        "x": 1133
+      },
+      "onScreen": "kawarimi no jutsu",
+      "index": 1,
+      "cooldownActive": 4,
+      "fugaKey": "kawarimi no jutsu",
+      "priority": 1,
+      "enabled": true
+    }
+  ],
+  "sushiFoodTimeCD": 0,
+  "comboSpells": [
+    {
+      "enableTimeSpell": true,
+      "orangeSpell": "susano ken",
+      "spellCast": "susano ken",
+      "index": 1,
+      "distance": 0,
+      "enabled": true,
+      "cooldown": 0,
+      "widgetPos": {
+        "y": 50,
+        "x": 0
+      }
+    },
+    {
+      "enableTimeSpell": true,
+      "orangeSpell": "mangekyou amaterasu",
+      "spellCast": "mangekyou amaterasu",
+      "index": 2,
+      "distance": 0,
+      "enabled": true,
+      "cooldown": 0,
+      "widgetPos": {
+        "y": 50,
+        "x": 0
+      }
+    },
+    {
+      "enableTimeSpell": true,
+      "orangeSpell": "genjutsu shuriken",
+      "spellCast": "genjutsu shuriken",
+      "index": 3,
+      "distance": 0,
+      "enabled": true,
+      "cooldown": 0,
+      "widgetPos": {
+        "y": 50,
+        "x": 0
+      }
+    }
+  ]
+}

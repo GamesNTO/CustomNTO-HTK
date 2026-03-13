@@ -1,0 +1,394 @@
+{
+  "userKey": "HTK-01-11",
+  "widgetPos": {
+    "showText": {
+      "y": 370,
+      "x": 739
+    }
+  },
+  "musicSettings": {
+    "isPlayAllMusic": false,
+    "selectedMusic": "superhero.mp3",
+    "isRepeatAllMusic": false,
+    "isOn": true,
+    "volume": 100
+  },
+  "_macros": {
+    "": false,
+    "Sense Target": false,
+    "Trocar arma, Dist/perto": false,
+    "Auto-Escadas": true,
+    "Invite Guild Party": false,
+    "Auto Kawarimi Selo": true,
+    "BUFF": true,
+    "Jump Marcacao": true,
+    "Bugmap": true,
+    "BUFF ELO": true,
+    "Automatic Jump": true,
+    "Attack Target": false,
+    "Play Music": false,
+    "Anti-Gank": true,
+    "Join Guild Party": false
+  },
+  "keyUserStairs": "Space",
+  "followLeader": "player name",
+  "dist": "13833",
+  "melee": "11242",
+  "iconScripts": {
+    "showInfos": false,
+    "fugaMacro": true,
+    "comboMacro": true,
+    "keyMacro": false
+  },
+  "antiGankSettings": {
+    "gankThreshold": 2,
+    "enabled": true
+  },
+  "_icons": {
+    "Auto Food": {
+      "y": 0.4327485380117,
+      "x": 0.10487288135593,
+      "enabled": false
+    },
+    "PlayList Pelego": {
+      "y": 0.2315369261477,
+      "x": 0.093347639484979,
+      "enabled": false
+    },
+    "Sense": {
+      "y": 0.33531746031746,
+      "x": 0.094117647058824,
+      "enabled": false
+    },
+    "jumpIcon": {
+      "y": 0.625,
+      "x": 0.0090909090909091,
+      "enabled": true
+    },
+    "Swap Arma": {
+      "y": 0.53216374269006,
+      "x": 0.10381355932203,
+      "enabled": false
+    },
+    "Anti Gank": {
+      "y": 0.71247563352827,
+      "x": 0.10063559322034,
+      "enabled": true
+    },
+    "Auto kawarimi selo": {
+      "y": 0.62670565302144,
+      "x": 0.099576271186441,
+      "enabled": true
+    }
+  },
+  "autojumper": "f",
+  "stairsIds": [
+    {
+      "id": 1666
+    },
+    {
+      "id": 6207
+    },
+    {
+      "id": 1948
+    },
+    {
+      "id": 435
+    },
+    {
+      "id": 7771
+    },
+    {
+      "id": 5542
+    },
+    {
+      "id": 8657
+    },
+    {
+      "id": 6264
+    },
+    {
+      "id": 1646
+    },
+    {
+      "id": 1648
+    },
+    {
+      "id": 1678
+    },
+    {
+      "id": 5291
+    },
+    {
+      "id": 1680
+    },
+    {
+      "id": 6905
+    },
+    {
+      "id": 6262
+    },
+    {
+      "id": 1664
+    },
+    {
+      "id": 13296
+    },
+    {
+      "id": 1067
+    },
+    {
+      "id": 13861
+    },
+    {
+      "id": 11931
+    },
+    {
+      "id": 1949
+    },
+    {
+      "id": 6896
+    },
+    {
+      "id": 6205
+    },
+    {
+      "id": 13926
+    },
+    {
+      "id": 1947
+    },
+    {
+      "id": 12097
+    },
+    {
+      "id": 615
+    },
+    {
+      "id": 8367
+    }
+  ],
+  "_configs": {
+    "targetbot_configs": {
+      "selected": "config_name",
+      "enabled": false
+    },
+    "cavebot_configs": {
+      "selected": "lobisomem",
+      "enabled": false
+    }
+  },
+  "autoKawarimiSeloEnabled": true,
+  "jumps": {
+    "1014,913,7": {
+      "jumpTo": "jump up",
+      "direction": 0
+    },
+    "1009,912,6": {
+      "jumpTo": "jump down",
+      "direction": 2
+    },
+    "841,1847,6": {
+      "jumpTo": "jump up",
+      "direction": 3
+    },
+    "1014,912,6": {
+      "jumpTo": "jump down",
+      "direction": 2
+    },
+    "841,1857,5": {
+      "jumpTo": "jump Down",
+      "direction": 2
+    },
+    "683,1861,6": {
+      "jumpTo": "jump up",
+      "direction": 0
+    },
+    "683,1860,5": {
+      "jumpTo": "jump Down",
+      "direction": 2
+    },
+    "847,1854,5": {
+      "jumpTo": "jump up",
+      "direction": 1
+    },
+    "1009,913,7": {
+      "jumpTo": "jump up",
+      "direction": 0
+    },
+    "savePositions": true
+  },
+  "sushiSettings": {
+    "hpPercent": 30,
+    "cooldown": 300,
+    "itemId": 12962
+  },
+  "playerList": {
+    "enemyList": [
+
+    ],
+    "outfits": false,
+    "groupMembers": true,
+    "marks": false,
+    "friendList": [
+
+    ]
+  },
+  "scrollBars1": {
+    "macroDelay": 200
+  },
+  "healSpells": [
+    {
+      "hpPercent": 99,
+      "enabled": true,
+      "spellName": "big regeneration"
+    }
+  ],
+  "_perPlayer": {
+    "hpitem1": {
+      "max": 90,
+      "title": "HP%",
+      "on": false,
+      "item": 14413,
+      "subType": 0,
+      "min": 51
+    },
+    "manaitem1": {
+      "max": 90,
+      "title": "MP%",
+      "on": false,
+      "item": 107,
+      "subType": 0,
+      "min": 51
+    },
+    "Opdks": {
+      "musicSettings": {
+        "isPlayAllMusic": false,
+        "selectedMusic": "superhero.mp3",
+        "isRepeatAllMusic": false,
+        "isOn": true,
+        "volume": 100
+      },
+      "stairsIds": [
+        {
+          "id": 1666
+        },
+        {
+          "id": 6207
+        },
+        {
+          "id": 1948
+        },
+        {
+          "id": 435
+        },
+        {
+          "id": 7771
+        },
+        {
+          "id": 5542
+        },
+        {
+          "id": 8657
+        },
+        {
+          "id": 6264
+        },
+        {
+          "id": 1646
+        },
+        {
+          "id": 1648
+        },
+        {
+          "id": 1678
+        },
+        {
+          "id": 5291
+        },
+        {
+          "id": 1680
+        },
+        {
+          "id": 6905
+        },
+        {
+          "id": 6262
+        },
+        {
+          "id": 1664
+        },
+        {
+          "id": 13296
+        },
+        {
+          "id": 1067
+        },
+        {
+          "id": 13861
+        },
+        {
+          "id": 11931
+        },
+        {
+          "id": 1949
+        },
+        {
+          "id": 6896
+        },
+        {
+          "id": 6205
+        },
+        {
+          "id": 13926
+        },
+        {
+          "id": 1947
+        },
+        {
+          "id": 12097
+        },
+        {
+          "id": 615
+        },
+        {
+          "id": 8367
+        }
+      ],
+      "fugaSpells": [
+        {
+          "selfHealth": 45,
+          "enableTimeSpell": true,
+          "orangeSpell": "kawarimi no jutsu",
+          "widgetPos": {
+            "y": 512,
+            "x": 1133
+          },
+          "cooldownTotal": 45,
+          "spellCast": "kawarimi no jutsu",
+          "onScreen": "kawarimi no jutsu",
+          "enabled": true,
+          "activeCooldown": 1773348866,
+          "index": 1,
+          "cooldownActive": 4,
+          "fugaKey": "kawarimi no jutsu",
+          "priority": 1,
+          "totalCooldown": 1773348907
+        }
+      ],
+      "scrollBars1": {
+        "macroDelay": 200
+      },
+      "healSpells": [
+        {
+          "hpPercent": 99,
+          "enabled": true,
+          "spellName": "big regeneration"
+        }
+      ],
+      "keyUserStairs": "Space",
+      "ingame_hotkeys": "macro(5000, \"BUFF ELO\", function()\n  say('buff elo')\nend)\n\n\nmacro(5000, \"BUFF\", function()\n  say('mangekyou susano no jutsu')\nend)"
+    }
+  },
+  "ingame_hotkeys": "macro(5000, \"BUFF ELO\", function()\n  say('buff elo')\nend)\n\n\nmacro(5000, \"BUFF\", function()\n  say('mangekyou susano no jutsu')\nend)"
+}
