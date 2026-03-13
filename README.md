@@ -53,7 +53,6 @@ Insira sua Chave de Acesso para validar e carregar os scripts via nuvem.
 Este software é desenvolvido para fins educacionais e de otimização de gameplay. O uso em servidores oficiais fica a critério do usuário. Os desenvolvedores não se responsabilizam por punições aplicadas por administrações de jogos.
 
 📩 Contato & Suporte
-API Status: https://customhtknto-api-c1ae8264e58a.herokuapp.com/
 Discord: @hatakeairon
 
 
