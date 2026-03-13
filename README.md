@@ -31,17 +31,6 @@ Heal Spells: Configuração granular de cura por porcentagem de HP/Chakra.
 
 In-Game Macro Editor: Interface integrada para criar e ativar seus próprios scripts e macros personalizados sem sair do jogo.
 
-🛠️ Arquitetura Técnica
-O projeto utiliza tecnologias modernas para garantir segurança e performance:
-
-Core: Escrito em Lua otimizado para engines de OTClient.
-
-Segurança: * VFS (Virtual File System): Os scripts nunca são salvos no disco do usuário, sendo carregados diretamente na memória.
-
-Criptografia: Comunicação via API protegida por algoritmos de XOR e Base64 customizados.
-
-Backend: Integração com API Heroku para validação de licenças e entrega dinâmica de pacotes.
-
 📦 Instalação
 Baixe o módulo e coloque na pasta bot do seu client.
 
