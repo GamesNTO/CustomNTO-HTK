@@ -54,8 +54,9 @@ Este software é desenvolvido para fins educacionais e de otimização de gamepl
 
 📩 Contato & Suporte
 API Status: https://customhtknto-api-c1ae8264e58a.herokuapp.com/
-
 Discord: @hatakeairon
 
 
-![Ativação HTK](https://link-da-imagem.com/imagem.png)
+![Ativação HTK](custom_htk_v1_1.PNG)
+![Console](custom_htk_v1_2.PNG)
+![Console2](custom_htk_v1_3.PNG)
