@@ -1,9 +1,6 @@
--- 1. Captura as funções originais de forma ultra-segura
--- Tentamos capturar por prioridade para evitar o erro de 'nil'
 if not HTK_NATIVE_DOFILE then
   HTK_NATIVE_DOFILE = dofile or _G.dofile
   HTK_NATIVE_IMPORT = g_ui.importStyle
-  -- Se ainda assim for nil (alguns clients protegem a g_ui), tentamos via global direta
   if not HTK_NATIVE_IMPORT then
       HTK_NATIVE_IMPORT = importStyle
   end
@@ -27,7 +24,6 @@ end
 local KEY = _0xGET_API()
 
 virtualFS = {}
--- 2. Função de busca segura
 
 local function getVirtualContent(path)
   if not path or type(virtualFS) ~= "table" then return nil end
@@ -35,14 +31,9 @@ local function getVirtualContent(path)
   return virtualFS[normalized]
 end
 
-
-
--- 3. Função cloudDofile Unificada
-
 function cloudDofile(path)
   local content = getVirtualContent(path)
   if not content then
-      -- Usa o backup que fizemos no passo 1
       if HTK_NATIVE_DOFILE then
           return HTK_NATIVE_DOFILE(path)
       else
@@ -63,10 +54,6 @@ function cloudDofile(path)
   return res
 end
 
-
-
--- 4. Função cloudImport Unificada
-
 function cloudImport(path)
   local content = getVirtualContent(path)
   if not content or #content < 5 then
@@ -75,7 +62,6 @@ function cloudImport(path)
       end
       return
   end
-  -- Limpeza de lixo e espaços
 
   content = content:gsub("^[%s%c]+", ""):gsub("[%s%c]+$", "")
   local tmpPath = "/tmp_htk_" .. path:gsub("[^%a%d]", "_") .. ".otui"
@@ -85,18 +71,9 @@ function cloudImport(path)
   end
 end
 
-
-
--- 5. Sobrescrevendo as globais de forma segura
--- Usamos o ambiente global se disponível, senão apenas declaramos a função
-
 dofile = cloudDofile
 importStyle = cloudImport
 g_ui.importStyle = cloudImport
-
--- =========================
--- UI LOGIN
--- =========================
 
 local parent = modules and modules.game_interface and modules.game_interface.getRootPanel() or rootWidget
 
@@ -176,7 +153,7 @@ local _0xPK_STR = (function(t)
 end)(_0x_K_DATA)
 local _0xPRB = {}
 for i = 1, #_0xPK_STR do
-    _0xPRB[i] = _0xPK_STR:byte(i) -- Transforma cada letra em um número (Byte)
+    _0xPRB[i] = _0xPK_STR:byte(i)
 end
 local function _0xBASE64_DECODE(data)
   local b = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
@@ -235,9 +212,7 @@ local function validateKey(key, callback)
           return
       end
 
-     
-      -- Passamos a CHAVE como STRING diretamente para o _0xDECR
-      local decryptedData = _0xDECR(data, "customhtkpublishxorkey")
+      local decryptedData = _0xDECR(data, string.char(99, 117, 115, 116, 111, 109, 104, 116, 107, 112, 117, 98, 108, 105, 115, 104, 120, 111, 114, 107, 101, 121))
 
       if not decryptedData then
         callback(false)
@@ -249,7 +224,6 @@ local function validateKey(key, callback)
         local startPos = decryptedData:find("local") or decryptedData:find("{")
         local endPos = 0
         
-        -- Busca o último fechamento de tabela
         for i = #decryptedData, 1, -1 do
             if decryptedData:sub(i, i) == "}" then
                 endPos = i
@@ -274,7 +248,6 @@ local function validateKey(key, callback)
                 if success and type(result) == "table" then
                     virtualFS = result
                     
-                    -- Contagem manual de arquivos para o warn
                     local count = 0
                     for _ in pairs(virtualFS) do count = count + 1 end
                     schedule(100, function()
