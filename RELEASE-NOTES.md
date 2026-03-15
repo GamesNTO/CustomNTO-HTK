@@ -1,3 +1,8 @@
+# 📑 Release Notes - Versão 1.2.1
+Esta versão traz melhorias e ajustes;
+Macro Anti Gank com novo layout.
+Macro Anti Kawarimi Selo com verificação adicional.
+
 # 📑 Release Notes - Versão 1.2.0
 
 Esta versão traz uma nova funcionalidade. HUD de guild. 
