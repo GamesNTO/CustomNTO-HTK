@@ -1,3 +1,9 @@
+# 📑 Release Notes - Versão 1.2.0
+
+Esta versão traz uma nova funcionalidade. HUD de guild. 
+
+Com essa funcionalidade, o player consegue visualizar todos os membros da guild proximos. Bem como sua vida em tempo real. 
+
 # 📑 Release Notes - Versão 1.1.0
 
 Esta versão traz melhorias críticas de estabilidade, otimização de algoritmos de combate e novas funcionalidades de segurança.
