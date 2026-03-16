@@ -1,3 +1,7 @@
+# 📑 Release Notes - Versão 1.2.2
+Esta versão traz melhorias e ajustes;
+Novo Loader - realize o download do novo loader;
+
 # 📑 Release Notes - Versão 1.2.1
 Esta versão traz melhorias e ajustes;
 Macro Anti Gank com novo layout.
