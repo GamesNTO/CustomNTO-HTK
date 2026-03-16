@@ -1,3 +1,8 @@
+# 📑 Release Notes - Versão 1.2.3
+Esta versão traz melhorias e ajustes;
+Ajuste no Key Pressed das fugas.
+Melhoria na macro antiRedSkull.
+
 # 📑 Release Notes - Versão 1.2.2
 Esta versão traz melhorias e ajustes;
 Novo Loader - realize o download do novo loader;
