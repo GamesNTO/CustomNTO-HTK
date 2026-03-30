@@ -2,9 +2,11 @@
    Essa versão traz novas macros e a funcionalidade de AUTO-DG (Auto Dungeon System)
    1) O AUTO DG Permite ao jogador automizar 13 dungeons do jogo NTO-LOST, dessa forma é possivel agora realizar dungeons automaticamente, uma vez que finalizada o ciclo de dungeons o jogador vai automaticamente para o treino    e quando uma DG é liberada o cooldown - sai do treino e vai realiza-la. 
    Obs: Para Dungeons que precisa de chaves, como special tsunade, special obito, é necessario ter a chave na bag principal e esta com ela aberta. Dessa forma o autoDG consegue identificar a chave, se nao tiver chave ou a    bag estiver fechada a DG é pulada para a proxima.
+
+   Obs: É Necessário deixar o painel de "Boss cooldown" aberto.
    ![Auto DG](auto_dg_delivery.PNG)
 
-   2) Nova macro anti selo especial (caso o jogador esteja selado por um selo de especial e estiver tomando muito dano, quando estiver com kawarimi no jutsu disponivel a macro bate a magia automaticamente, priorizando a sobrevivencia do personagem.
+   3) Nova macro anti selo especial (caso o jogador esteja selado por um selo de especial e estiver tomando muito dano, quando estiver com kawarimi no jutsu disponivel a macro bate a magia automaticamente, priorizando a sobrevivencia do personagem.
 
    
 
