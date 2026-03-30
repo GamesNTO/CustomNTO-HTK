@@ -1,3 +1,6 @@
+# 📑 Release Notes - Versão 2.0.2
+   Essa versão traz ajustes no AUTO-DG;
+   
 # 📑 Release Notes - Versão 2.0.1
    Essa versão traz um novo script de anti-catpcha para os NPC de benisu e port island - Agora só é necessario falar hi no NPC e o travel funciona automaticamente. 
    
