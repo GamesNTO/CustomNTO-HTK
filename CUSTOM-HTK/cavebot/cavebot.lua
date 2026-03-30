@@ -1,5 +1,5 @@
 local cavebotMacro = nil
-local config = nil
+config = nil
 
 -- ui
 local configWidget = UI.Config()
@@ -221,4 +221,35 @@ CaveBot.save = function()
   end
   table.insert(data, {"extensions", json.encode(extension_data, 2)})
   config.save(data)
+end
+
+CaveBot.doCustomLoad = function(fileName)
+  if not configWidget then return false end
+  local children = configWidget:recursiveGetChildren()
+  for _, child in ipairs(children) do
+      if child.setCurrentOption then
+          child:setCurrentOption(fileName)
+          delay(1000)
+          CaveBot.resetWalking()
+          CaveBot.setOn(true)
+          return true
+      end
+  end
+
+  local configMenu = configWidget:getChildById('configs') or configWidget:getChildById('fileList')
+  if configMenu then
+      configMenu:setText(fileName)
+      return true
+  end
+  return false
+end
+
+CaveBot.getCurrentWayPoints = function()
+  local waypoints = {}
+  for index, child in ipairs(ui.list:getChildren()) do
+    if child.action == "goto" then    
+      table.insert(waypoints, child.value)
+    end
+  end
+  return waypoints
 end
