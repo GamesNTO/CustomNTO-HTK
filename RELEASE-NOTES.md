@@ -1,3 +1,6 @@
+# 📑 Release Notes - Versão 2.0.1
+   Essa versão traz um novo script de anti-catpcha para os NPC de benisu e port island - Agora só é necessario falar hi no NPC e o travel funciona automaticamente. 
+   
 # 📑 Release Notes - Versão 2.0.0
    Essa versão traz novas macros e a funcionalidade de AUTO-DG (Auto Dungeon System)
    1) O AUTO DG Permite ao jogador automizar 13 dungeons do jogo NTO-LOST, dessa forma é possivel agora realizar dungeons automaticamente, uma vez que finalizada o ciclo de dungeons o jogador vai automaticamente para o treino    e quando uma DG é liberada o cooldown - sai do treino e vai realiza-la. 
