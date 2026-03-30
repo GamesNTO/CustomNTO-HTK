@@ -1,3 +1,7 @@
+# 📑 Release Notes - Versão 2.0.0
+   Essa versão traz novas macros e a funcionalidade de AUTO-DG (Auto Dungeon System)
+   
+
 # 📑 Release Notes - Versão 1.2.3
 Esta versão traz melhorias e ajustes;
 Ajuste no Key Pressed das fugas.
