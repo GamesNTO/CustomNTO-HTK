@@ -1,3 +1,8 @@
+# 📑 Release Notes - Versão 2.1.1
+   Essa versão traz ajustes
+
+   1: Ajuste macro de captcha
+   
 # 📑 Release Notes - Versão 2.1.0
    Essa versão traz ajustes e novas macros -
    
