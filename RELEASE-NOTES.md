@@ -1,3 +1,13 @@
+# 📑 Release Notes - Versão 2.1.0
+   Essa versão traz ajustes e novas macros -
+   
+   1: Macro: Auto IK - Abre um painel onde o jogador pode colocar a magia utilizada para da IK no alvo e a porcentagem de vida que o alvo deve ter para ser acionada.
+      Obs: A macro verifica se o jogador esta com alguma fuga defensiva em cooldown, caso esteja o IK nao é acionado. 
+
+   2: Macro: Desviar BOSS - que monitora o tile onde o player esta e se detectar um efeito perigoso, move para fora da area. Nao funciona para area estilo do Lobisomem BOSS. Desligue quando estiver com AUTO-DG ON
+      Obs: Util para bosses: Com efeitos 1,2,3 - area vermelha
+      
+   
 # 📑 Release Notes - Versão 2.0.2
    Essa versão traz ajustes no AUTO-DG;
    
