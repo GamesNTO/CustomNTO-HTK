@@ -1,3 +1,13 @@
+# 📑 Release Notes - Versão 2.2.0
+   Essa versão traz uma nova funcionalidade para o NTO-LOST - Travel System.
+   
+   Ao falar hi no NPC Minoru - É exibido um HUD com as opções de viagem. Uma vez que clicado na opção desejada o travel é realizado.
+   
+   Obs: Quando o auto-DG esta ligado o sistema de travel é desativado!
+   
+   ![Travel System](travel_system_2.PNG)
+   
+   
 # 📑 Release Notes - Versão 2.1.1
    Essa versão traz ajustes
 
