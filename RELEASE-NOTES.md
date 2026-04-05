@@ -1,6 +1,6 @@
 # 📑 Release Notes - Versão 2.4.0
    - Essa versão traz uma nova DG para o sistema de DG
-   - Dungeon NAGAI - é necessario que seja um player Rank S+, caso seu personagem nao tenha a dungeon é skipada!
+   - Dungeon NAGAI - é necessario que seja um player Rank S+, caso seu personagem nao seja Rank S+. A dungeon é skipada!
    - Obs: Realize o download da custom para obter as novas atualizações e evitar BUGs;
 
 # 📑 Release Notes - Versão 2.3.0
