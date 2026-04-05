@@ -8,6 +8,7 @@
    - Auto Survival System
       * Permite ao jogador realizar a arena de survival do NTO-LOST de acordo com o nivel de dificuldade configurado.
       * Arena survival pode ser realizada a cada 12 horas. Durante este periodo, o sistema da a opção de continuar o auto dungeon ou simplesmente ir para o treino.
+      * Garantindo um ciclo de Farm e treinamento continuo!
     
    ![Auto Survival System](auto_survival_system_3.PNG)
         
