@@ -253,3 +253,14 @@ CaveBot.getCurrentWayPoints = function()
   end
   return waypoints
 end
+
+CaveBot.getCurrentDelay = function(delaySearchValue)
+  for index, child in ipairs(ui.list:getChildren()) do
+    if child.action == "delay" then 
+      if tonumber(delaySearchValue) == tonumber(child.value) then
+        return true
+      end
+    end
+  end
+  return false
+end
