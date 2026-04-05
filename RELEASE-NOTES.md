@@ -1,3 +1,6 @@
+# 📑 Release Notes - Versão 2.4.1
+   - Essa versão traz um ajuste feito na aba de htks - ingame scripts;
+
 # 📑 Release Notes - Versão 2.4.0
    - Essa versão traz uma nova DG para o sistema de DG
    - Dungeon NAGAI - é necessario que seja um player Rank S+, caso seu personagem nao seja Rank S+. A dungeon é skipada!
