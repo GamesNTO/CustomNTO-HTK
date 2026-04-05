@@ -3,6 +3,23 @@
    - Dungeon NAGAI - é necessario que seja um player Rank S+, caso seu personagem nao seja Rank S+. A dungeon é skipada!
    - Obs: Realize o download da custom para obter as novas atualizações e evitar BUGs;
 
+   - Dungeons Disponiveis (13 Dungeons)
+     
+         - Solo Wolf
+         - Solo Lobo
+         - Mudoku
+         - Lobisomem
+         - Haku
+         - Madara
+         - Tsunade (necessita de chave na bag principal & bag aberta)
+         - Special Minato (necessita de chave na bag principal & bag aberta)
+         - Special Obito (necessita de chave na bag principal & bag aberta)
+         - Dungeon Shita
+         - Dungeon Farukon
+         - Dungeon Nagai
+         - Elite Black Dragon
+     
+
 # 📑 Release Notes - Versão 2.3.0
    - Essa versão traz novas macros e a funcionalidade de Auto Survival System
    - Auto Survival System
