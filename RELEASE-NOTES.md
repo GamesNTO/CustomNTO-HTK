@@ -1,8 +1,15 @@
+# 📑 Release Notes - Versão 2.4.0
+   - Essa versão traz uma nova DG para o sistema de DG
+   - Dungeon NAGAI - é necessario que seja um player Rank S+, caso seu personagem nao tenha a dungeon é skipada!
+   - Obs: Realize o download da custom para obter as novas atualizações e evitar BUGs;
+
 # 📑 Release Notes - Versão 2.3.0
    - Essa versão traz novas macros e a funcionalidade de Auto Survival System
    - Auto Survival System
       * Permite ao jogador realizar a arena de survival do NTO-LOST de acordo com o nivel de dificuldade configurado.
       * Arena survival pode ser realizada a cada 12 horas. Durante este periodo, o sistema da a opção de continuar o auto dungeon ou simplesmente ir para o treino.
+    
+   ![Auto Survival System](auto_survival_system_3.PNG)
         
 
      
