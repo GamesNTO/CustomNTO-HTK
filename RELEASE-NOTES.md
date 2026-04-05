@@ -1,3 +1,31 @@
+# 📑 Release Notes - Versão 2.2.0
+   Essa versão traz uma nova funcionalidade para o NTO-LOST - Travel System.
+   
+   Ao falar hi no NPC Minoru - É exibido um HUD com as opções de viagem. Uma vez que clicado na opção desejada o travel é realizado.
+   
+   Obs: Quando o auto-DG esta ligado o sistema de travel é desativado!
+   
+   ![Travel System](travel_system_2.PNG)
+   
+   
+# 📑 Release Notes - Versão 2.1.1
+   Essa versão traz ajustes
+
+   1: Ajuste macro de captcha
+   
+# 📑 Release Notes - Versão 2.1.0
+   Essa versão traz ajustes e novas macros -
+   
+   1: Macro: Auto IK - Abre um painel onde o jogador pode colocar a magia utilizada para da IK no alvo e a porcentagem de vida que o alvo deve ter para ser acionada.
+      Obs: A macro verifica se o jogador esta com alguma fuga defensiva em cooldown, caso esteja o IK nao é acionado. 
+
+   2: Macro: Desviar BOSS - que monitora o tile onde o player esta e se detectar um efeito perigoso, move para fora da area. Nao funciona para area estilo do Lobisomem BOSS. Desligue quando estiver com AUTO-DG ON
+      Obs: Util para bosses: Com efeitos 1,2,3 - area vermelha
+      
+   
+# 📑 Release Notes - Versão 2.0.2
+   Essa versão traz ajustes no AUTO-DG;
+   
 # 📑 Release Notes - Versão 2.0.1
    Essa versão traz um novo script de anti-catpcha para os NPC de benisu e port island - Agora só é necessario falar hi no NPC e o travel funciona automaticamente. 
    
