@@ -1,3 +1,21 @@
+# 📑 Release Notes - Versão 2.3.0
+   - Essa versão traz novas macros e a funcionalidade de Auto Survival System
+   - Auto Survival System
+      * Permite ao jogador realizar a arena de survival do NTO-LOST de acordo com o nivel de dificuldade configurado.
+      * Arena survival pode ser realizada a cada 12 horas. Durante este periodo, o sistema da a opção de continuar o auto dungeon ou simplesmente ir para o treino.
+        
+
+     
+# 📑 Release Notes - Versão 2.2.3
+   - Ajustes no travel system
+     
+# 📑 Release Notes - Versão 2.2.2
+   - Ajustes markdown
+
+# 📑 Release Notes - Versão 2.2.1
+   - Ajustes no storage de fuga spells, key spells e combo spells;
+   - Caso haja algum bug, refaça suas fugas.
+
 # 📑 Release Notes - Versão 2.2.0
    Essa versão traz uma nova funcionalidade para o NTO-LOST - Travel System.
    
