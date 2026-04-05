@@ -12,6 +12,7 @@
       * Obs: Ao final de cada survival realizada é exibido uma mensagem no panel do bot - informando se o jogador ganhou ou nao a ultima survival realizada!
     
    ![Auto Survival System](auto_survival_system_3.PNG)
+      ![Auto Survival System](auto_survival_system_4.PNG)
         
 
      
