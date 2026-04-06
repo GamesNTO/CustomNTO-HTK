@@ -1,3 +1,8 @@
+# 📑 Release Notes - Versão 2.4.2
+   - Ajustes travel system da area vip
+   - Ajustes ao desligar auto dg e survival no pause target
+   - Ajustes storage survival data
+     
 # 📑 Release Notes - Versão 2.4.1
    - Essa versão traz um ajuste feito na aba de htks - ingame scripts;
 
