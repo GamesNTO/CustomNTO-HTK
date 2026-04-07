@@ -1,3 +1,7 @@
+# 📑 Release Notes - Versão 2.4.3
+   - Ajustes cavehunt e target quando sistemas de dg e survival forem desligados manualmente
+   - Ajustes na mensagem de feedback de sucesso quando finalizar a survival
+
 # 📑 Release Notes - Versão 2.4.2
    - Ajustes travel system da area vip
    - Ajustes ao desligar auto dg e survival no pause target
