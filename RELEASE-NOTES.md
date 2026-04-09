@@ -1,3 +1,12 @@
+# 📑 Release Notes - Versão 2.5.0
+   - Essa versao traz uma nova funcionalidade de AUTO DG - CONFIG.
+   - Agora é possivel desabilitar ou habilitar dungeons
+   - Agora é possivel desabilitar use em itens dropados de dungeons
+   - Agora é possivel habilitar configurações de inventario durante dungeons
+
+   ![Auto Dungeon Config](config_auto_dungeon_2.5.0.PNG)
+     
+
 # 📑 Release Notes - Versão 2.4.3
    - Ajustes cavehunt e target quando sistemas de dg e survival forem desligados manualmente
    - Ajustes na mensagem de feedback de sucesso quando finalizar a survival
