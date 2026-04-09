@@ -1,3 +1,70 @@
+# 📑 Release Notes - Versão 2.5.0
+   - Essa versao traz uma nova funcionalidade de AUTO DG - CONFIG.
+   - Agora é possivel desabilitar ou habilitar dungeons
+   - Agora é possivel desabilitar use em itens dropados de dungeons
+   - Agora é possivel habilitar configurações de inventario durante dungeons
+   - Obs: ao desabilitar todas as dungeons disponiveis - o mecanismo do auto dg quando ligado irá levar o personagem para o treinamento.
+
+   ![Auto Dungeon Config](config_auto_dungeon_2.5.0.PNG)
+     
+
+# 📑 Release Notes - Versão 2.4.3
+   - Ajustes cavehunt e target quando sistemas de dg e survival forem desligados manualmente
+   - Ajustes na mensagem de feedback de sucesso quando finalizar a survival
+
+# 📑 Release Notes - Versão 2.4.2
+   - Ajustes travel system da area vip
+   - Ajustes ao desligar auto dg e survival no pause target
+   - Ajustes storage survival data
+     
+# 📑 Release Notes - Versão 2.4.1
+   - Essa versão traz um ajuste feito na aba de htks - ingame scripts;
+
+# 📑 Release Notes - Versão 2.4.0
+   - Essa versão traz uma nova DG para o sistema de DG
+   - Dungeon NAGAI - é necessario que seja um player Rank S+, caso seu personagem nao seja Rank S+. A dungeon é skipada!
+   - Obs: Realize o download da custom para obter as novas atualizações e evitar BUGs;
+
+   - Dungeons Disponiveis (13 Dungeons)
+     
+         - Solo Wolf
+         - Solo Lobo
+         - Mudoku
+         - Lobisomem
+         - Haku
+         - Madara
+         - Tsunade (necessita de chave na bag principal & bag aberta)
+         - Special Minato (necessita de chave na bag principal & bag aberta)
+         - Special Obito (necessita de chave na bag principal & bag aberta)
+         - Dungeon Shita
+         - Dungeon Farukon
+         - Dungeon Nagai
+         - Elite Black Dragon
+     
+
+# 📑 Release Notes - Versão 2.3.0
+   - Essa versão traz novas macros e a funcionalidade de Auto Survival System
+   - Auto Survival System
+      * Permite ao jogador realizar a arena de survival do NTO-LOST de acordo com o nivel de dificuldade configurado.
+      * Arena survival pode ser realizada a cada 12 horas. Durante este periodo, o sistema da a opção de continuar o auto dungeon ou simplesmente ir para o treino.
+      * Garantindo um ciclo de Farm e treinamento continuo!
+      * Obs: Ao final de cada survival realizada é exibido uma mensagem no panel do bot - informando se o jogador ganhou ou nao a ultima survival realizada!
+    
+   ![Auto Survival System](auto_survival_system_3.PNG)
+      ![Auto Survival System](auto_survival_system_4.PNG)
+        
+
+     
+# 📑 Release Notes - Versão 2.2.3
+   - Ajustes no travel system
+     
+# 📑 Release Notes - Versão 2.2.2
+   - Ajustes markdown
+
+# 📑 Release Notes - Versão 2.2.1
+   - Ajustes no storage de fuga spells, key spells e combo spells;
+   - Caso haja algum bug, refaça suas fugas.
+
 # 📑 Release Notes - Versão 2.2.0
    Essa versão traz uma nova funcionalidade para o NTO-LOST - Travel System.
    
