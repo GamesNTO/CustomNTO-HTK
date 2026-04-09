@@ -3,6 +3,7 @@
    - Agora é possivel desabilitar ou habilitar dungeons
    - Agora é possivel desabilitar use em itens dropados de dungeons
    - Agora é possivel habilitar configurações de inventario durante dungeons
+   - Obs: ao desabilitar todas as dungeons disponiveis - o mecanismo do auto dg quando ligado irá levar o personagem para o treinamento.
 
    ![Auto Dungeon Config](config_auto_dungeon_2.5.0.PNG)
      
