@@ -1,3 +1,8 @@
+# 📑 Release Notes - Versão 2.6.0
+   - Essa versao traz um novo sistema de profile de macros e sistema baseado no NTO que esta o personagem esta logado;
+   - Ajustes no storage da DG.
+   - Entre outras melhorias
+
 # 📑 Release Notes - Versão 2.5.0
    - Essa versao traz uma nova funcionalidade de AUTO DG - CONFIG.
    - Agora é possivel desabilitar ou habilitar dungeons
