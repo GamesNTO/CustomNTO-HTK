@@ -1,3 +1,6 @@
+# 📑 Release Notes - Versão 2.6.2
+   - Ajuste no ciclo de dungeons
+
 # 📑 Release Notes - Versão 2.6.1
    - Ajuste pause/run new cavebot
 
