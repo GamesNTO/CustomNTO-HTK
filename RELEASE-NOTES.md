@@ -1,3 +1,6 @@
+# 📑 Release Notes - Versão 2.6.3
+   - Ajuste no ciclo survival
+     
 # 📑 Release Notes - Versão 2.6.2
    - Ajuste no ciclo de dungeons
 
