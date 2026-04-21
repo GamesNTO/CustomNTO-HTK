@@ -1,3 +1,6 @@
+# 📑 Release Notes - Versão 2.6.4
+   - Ajuste no ciclo de acionamento de fuga automatica
+     
 # 📑 Release Notes - Versão 2.6.3
    - Ajuste no ciclo survival
      
