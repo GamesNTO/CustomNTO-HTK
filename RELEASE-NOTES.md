@@ -1,3 +1,7 @@
+# 📑 Release Notes - Versão 2.7.0
+   - Nova macro de attack target follow adicionada.
+   - Ativa o Attack Follow, que segue automaticamente o inimigo que você atacar, mesmo que ele saia do lock, contanto que esteja vivo e no mesmo andar. Pressione Tecla configurada para cancelar o follow.
+     
 # 📑 Release Notes - Versão 2.6.4
    - Ajuste no ciclo de acionamento de fuga automatica
      
