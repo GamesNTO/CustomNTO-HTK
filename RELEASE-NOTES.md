@@ -1,3 +1,6 @@
+# 📑 Release Notes - Versão 2.8.0
+  - Adicionado sistema de travel system para o NTO Vikings
+
 # 📑 Release Notes - Versão 2.7.0
    - Nova macro de attack target follow adicionada.
    - Ativa o Attack Follow, que segue automaticamente o inimigo que você atacar, mesmo que ele saia do lock, contanto que esteja vivo e no mesmo andar. Pressione Tecla configurada para cancelar o follow.
