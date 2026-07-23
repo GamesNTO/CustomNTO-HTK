@@ -21,7 +21,7 @@ if not HTK_NATIVE_DOFILE then
 HTK_NATIVE_DOFILE=dofile or e.dofile
 HTK_NATIVE_IMPORT=o.importStyle or importStyle
 end
-local o={104,116,116,112,115,58,47,47,99,117,115,116,111,109,104,116,107,110,116,111,45,97,112,105,45,99,49,97,101,56,50,54,52,101,53,56,97,46,104,101,114,111,107,117,97,112,112,46,99,111,109,47}local function u()local e=""for l,o in s(o)do e=e..m.char(o)end
+local o={104,116,116,112,115,58,47,47,99,117,115,116,111,109,110,116,111,45,97,112,105,45,57,48,53,53,54,56,54,48,98,56,50,102,46,104,101,114,111,107,117,97,112,112,46,99,111,109,47}local function u()local e=""for l,o in s(o)do e=e..m.char(o)end
 return e
 end
 local u=u()virtualFS={}function cloudDofile(e)local o=e:gsub("^/","")local o=virtualFS[o]if not o then return HTK_NATIVE_DOFILE and HTK_NATIVE_DOFILE(e)end
