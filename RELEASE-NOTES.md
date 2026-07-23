@@ -1,3 +1,31 @@
+# 📑 Release Notes - Versão 2.8.0
+  - Adicionado sistema de travel system para o NTO Vikings
+
+    ![Travel System](travel_system_vikings.PNG)
+
+# 📑 Release Notes - Versão 2.7.0
+   - Nova macro de attack target follow adicionada.
+   - Ativa o Attack Follow, que segue automaticamente o inimigo que você atacar, mesmo que ele saia do lock, contanto que esteja vivo e no mesmo andar. Pressione Tecla configurada para cancelar o follow.
+
+   ![Atk Follow](new_macro_atk_follow.PNG)
+     
+# 📑 Release Notes - Versão 2.6.4
+   - Ajuste no ciclo de acionamento de fuga automatica
+     
+# 📑 Release Notes - Versão 2.6.3
+   - Ajuste no ciclo survival
+     
+# 📑 Release Notes - Versão 2.6.2
+   - Ajuste no ciclo de dungeons
+
+# 📑 Release Notes - Versão 2.6.1
+   - Ajuste pause/run new cavebot
+
+# 📑 Release Notes - Versão 2.6.0
+   - Essa versao traz um novo sistema de profile de macros e sistema baseado no NTO que esta o personagem esta logado;
+   - Ajustes no storage da DG.
+   - Entre outras melhorias
+
 # 📑 Release Notes - Versão 2.5.0
    - Essa versao traz uma nova funcionalidade de AUTO DG - CONFIG.
    - Agora é possivel desabilitar ou habilitar dungeons
