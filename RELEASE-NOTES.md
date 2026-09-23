@@ -1,3 +1,14 @@
+# 📑 Release Notes - Versão 3.2.0
+  - Nova macro de visualizacao do time spell de fugas dos targets
+  - Quando ativada a macro exibe um HUD com o nome do target sendo atacado e as magias de fuga que ele usou
+  - Bem como o cooldown das mesmas;
+  - Essa é a versao inicial dessa macro, em breve novidades!
+
+  ![Target Spells Macro](hahaxd1.PNG)
+
+# 📑 Release Notes - Versão 3.1.0
+ - Correção ciclo de fugas automaticas V2
+
 # 📑 Release Notes - Versão 3.0.0
   - Nova macro de troca de danzo izanagi com barion ring + mamoru protect e izanagi ring (Swap Kakuzu Hearts)
   - Essa macro realiza a troca de kakuzu heart automaticamente, como também exibe o coldown das mesmas
