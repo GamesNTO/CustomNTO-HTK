@@ -1,3 +1,9 @@
+# 📑 Release Notes - Versão 3.0.0
+  - Nova macro de troca de danzo izanagi com barion ring + mamoru protect e izanagi ring (Swap Kakuzu Hearts)
+  - Essa macro realiza a troca de kakuzu heart automaticamente, como também exibe o coldown das mesmas
+
+    ![Passive Macro](passive_macro.PNG)
+
 # 📑 Release Notes - Versão 2.8.0
   - Adicionado sistema de travel system para o NTO Vikings
 
