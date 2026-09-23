@@ -1,6 +1,8 @@
 # 📑 Release Notes - Versão 3.0.0
   - Nova macro de troca de danzo izanagi com barion ring + mamoru protect e izanagi ring (Swap Kakuzu Hearts)
   - Essa macro realiza a troca de kakuzu heart automaticamente, como também exibe o coldown das mesmas
+  - Quando ativada um HUD aparece com o monitoramento do tempo das passivas
+  - É necessario deixar a bag aberta com os itens para fazer o swap correto!
 
     ![Passive Macro](passive_macro.PNG)
 
