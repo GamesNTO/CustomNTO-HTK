@@ -1,4 +1,8 @@
 # 📑 Release Notes - Versão 3.2.3
+   - Macro Target Monitor - Ajustada
+   - Ativa a macro target monitor
+     
+# 📑 Release Notes - Versão 3.2.3
    - Atualiza arquivo de treinamento do auto dg
      
 # 📑 Release Notes - Versão 3.2.2
