@@ -1,3 +1,6 @@
+# 📑 Release Notes - Versão 3.2.3
+   - Atualiza arquivo de treinamento do auto dg
+     
 # 📑 Release Notes - Versão 3.2.2
    - Aplica ajuste na macro de swap passivas
    - Ativa a macro de swap passivas
