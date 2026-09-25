@@ -1,3 +1,8 @@
+# 📑 Release Notes - Versão 3.2.1
+   - Desativa macro de swarp kakuzu heart temporariamente
+   - Desativa macro de target monitor temporariamente
+   - Corrije macro de fuga automatica e combo
+
 # 📑 Release Notes - Versão 3.2.0
   - Nova macro de visualizacao do time spell de fugas dos targets
   - Quando ativada a macro exibe um HUD com o nome do target sendo atacado e as magias de fuga que ele usou
