@@ -1,3 +1,7 @@
+# 📑 Release Notes - Versão 3.2.2
+   - Aplica ajuste na macro de swap passivas
+   - Ativa a macro de swap passivas
+     
 # 📑 Release Notes - Versão 3.2.1
    - Desativa macro de swarp kakuzu heart temporariamente
    - Desativa macro de target monitor temporariamente
